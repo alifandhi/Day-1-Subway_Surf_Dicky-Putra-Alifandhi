@@ -1,27 +1,37 @@
-# Day-1-Subway_Surf_Dicky-Putra-Alifandh
-**Nama Lengkap:** Dicky Putra Alifandhi
+Day-1-Subway_Surf_Dicky-Putra-Alifandh
 
-## Deskripsi Repository
-Repository ini merupakan pusat dokumentasi komprehensif, ruang penyimpanan tugas, dan catatan pembelajaran terstruktur selama mengikuti kegiatan workshop Day 1 Pengenalan Akademik Jurusan TIK Politeknik Negeri Jakarta. 
+Nama Lengkap: Dicky Putra Alifandhi
 
-## Tujuan Repository
-1. **Manajemen Proyek Daring:** Menggunakan platform GitHub sebagai media utama untuk menyimpan, mengelola, dan memublikasikan hasil proyek workshop agar mudah diakses oleh publik.
-2. **Pengembangan Kebiasaan Dokumentasi:** Melatih kedisiplinan dalam mencatat materi esensial, merangkum pengetahuan baru, dan menyusun *file* dokumentasi proyek secara rapi dan profesional.
-3. **Penerapan *Version Control*:** Membiasakan alur kerja kolaboratif dan pengelolaan *repository* dengan visibilitas *Public* yang menjadi standar industri teknologi saat ini.
+Deskripsi Repository
 
-## Dokumentasi Kegiatan Workshop Day 1
+Repository ini digunakan untuk menyimpan dokumentasi, rangkuman materi, dan tugas selama mengikuti Workshop Day 1 Pengenalan Akademik Jurusan TIK Politeknik Negeri Jakarta.
 
-### Rangkuman Materi
-* **Rencana Strategis & Roadmap JTIK PNJ 2026-2030:** Arah pengembangan jurusan dirancang untuk mencapai taraf internasional dengan lulusan yang adaptif dan berdaya saing[span_0](start_span)[span_0](end_span). Hal ini didukung oleh tiga misi utama: penyelenggaraan pendidikan vokasi berkualitas, pengembangan riset dan inovasi (termasuk inkubator bisnis), serta penerapan tata kelola jurusan berbasis digital[span_1](start_span)[span_1](end_span).
-* **Struktur Organisasi JTIK PNJ:** Tata kelola jurusan dikepalai oleh Ketua Jurusan dan Sekretaris Jurusan, dibantu oleh Kepala Program Studi (TI, TMJ, TMD, RKS), Kepala Laboratorium (Komputer & Jaringan serta Cyber Security), dan Kelompok Bidang Keahlian (KBK) yang spesifik seperti RPL, Sistem Cerdas, IoT, Keamanan, dan Multimedia[span_2](start_span)[span_2](end_span).
-* **Program Merdeka Belajar Kampus Merdeka (MBKM) & MSIB:** Mahasiswa diberikan hak belajar hingga 2 semester di luar program studi yang dapat dikonversi menjadi 20 SKS per semester[span_3](start_span)[span_3](end_span). Tersedia 8 bentuk kegiatan, mulai dari Magang Bersertifikat, Studi Independen (seperti *bootcamp*), Pertukaran Pelajar, Asistensi Mengajar, hingga Proyek Independen dan Kewirausahaan[span_4](start_span)[span_4](end_span).
-* **Kurikulum *Outcome-Based Education* (OBE):** Seluruh prodi menerapkan pendekatan kurikulum yang disusun mundur: dimulai dari identifikasi Profil Lulusan yang ditargetkan (misal: *Network Engineer*, *Software Developer*, *Digital Content Creator*), dirumuskan ke dalam Capaian Pembelajaran Lulusan (CPL), lalu dibreakdown menjadi mata kuliah teknis[span_5](start_span)[span_5](end_span)[span_6](start_span)[span_6](end_span)[span_7](start_span)[span_7](end_span). Program vokasi ini menekankan metode *Project-Based Learning* (berorientasi pada produk nyata) dan *Problem-Based Learning* (memecahkan masalah terbuka)[span_8](start_span)[span_8](end_span).
-* **Tata Tertib & Kedisiplinan Laboratorium:** Terdapat Standar Operasional Prosedur (SOP) yang ketat untuk peminjaman alat (dengan jaminan KTM) dan ruangan (memerlukan persetujuan Kepala Laboratorium)[span_9](start_span)[span_9](end_span)[span_10](start_span)[span_10](end_span). Kedisiplinan berpenampilan mencakup keharusan berambut pendek dan rapi (tidak menyentuh kerah/telinga, dilarang diikat *man bun*), berpakaian kemeja berkerah, dan bersepatu tertutup bagian belakang[span_11](start_span)[span_11](end_span). Pelanggaran seperti makan/minum di lab, menyontek, atau plagiasi dapat berujung pada peringatan hingga pemberhentian studi[span_12](start_span)[span_12](end_span).
+Tujuan Repository
 
-### Poin-Poin Penting dan Pengetahuan Baru
-* **Pergeseran Paradigma Belajar (*Make It Stick*):** Mengulang bacaan dan belajar kebut semalam terbukti sebagai mitos yang tidak efektif[span_13](start_span)[span_13](end_span). Enam metode yang terbukti secara ilmiah lebih kuat untuk retensi jangka panjang meliputi: *retrieval practice* (menguji diri sendiri), *spaced practice* (belajar berjeda), *interleaving* (mencampur topik), *elaboration* (menjelaskan ulang), *generation* (mencoba memecahkan masalah sebelum diberi tahu solusinya), dan *calibration* (mengukur diri dengan kuis)[span_14](start_span)[span_14](end_span).
-* **Tuntutan *Soft Skill* di Industri TIK:** Di tengah proyeksi kebutuhan 12 juta talenta digital pada tahun 2030, keterampilan teknis (komputasi, jaringan, data) harus diimbangi dengan *soft skill*[span_15](start_span)[span_15](end_span)[span_16](start_span)[span_16](end_span). Berdasarkan evaluasi dari mitra industri (*advisory board*), CPL yang paling esensial dan mutlak dibutuhkan adalah kemampuan berkomunikasi, bekerja sama, serta memimpin dalam tim multidisiplin[span_17](start_span)[span_17](end_span).
-* **Keseimbangan Teori dan Praktik:** Kurikulum vokasi berfokus sangat berat pada penguasaan praktik (*hands-on experience*). Sebagai contoh, pada prodi Rekayasa Keamanan Siber, porsi pembelajaran mencakup lebih dari 61% praktik langsung dibandingkan teori[span_18](start_span)[span_18](end_span). 
+1. Menyimpan materi dan hasil kegiatan workshop.
+2. Mencatat hal-hal penting yang dipelajari.
+3. Membiasakan penggunaan GitHub untuk dokumentasi dan pengelolaan proyek.
 
-### Pendapat Pribadi tentang Day 1 Proyek Workshop
-Materi pengenalan akademik hari ini memberikan kerangka kerja yang sangat jelas mengenai ekspektasi jurusan, terutama terkait implementasi kurikulum OBE dan metode *Project-Based Learning*. Pemaparan mengenai pentingnya memecahkan masalah secara langsung sangat sejalan dengan gaya belajar yang saya sukai; saya mendapati bahwa pendekatan logis tahap demi tahap, melakukan *dry run* secara manual sebelum menulis kode di VS Code, dan mengeksekusi sistem logika secara mendetail jauh lebih krusial daripada sekadar memahami teori tingkat tinggi. Kebiasaan belajar yang ditekankan melalui prinsip *Make It Stick*—terutama mencoba memecahkan batas-batas permasalahan sistem, seperti merancang alur logika program secara ketat meskipun tanpa menggunakan struktur data yang kompleks—sangat membekas bagi saya. Secara keseluruhan, pemaparan Day 1 ini memotivasi saya untuk menyelaraskan kemampuan logika algoritmik murni dalam bahasa pemrograman seperti C++ dengan target CPL komunikasi tim yang diharapkan oleh industri, serta memastikan semuanya terdokumentasi dengan rapi di GitHub.
+Dokumentasi Kegiatan Workshop Day 1
+
+Rangkuman Materi
+
+- Roadmap JTIK PNJ 2026–2030: Membahas rencana pengembangan jurusan, mulai dari pendidikan, penelitian, inovasi, hingga tata kelola digital.
+- Struktur Organisasi JTIK: Mengenal struktur organisasi jurusan, program studi, kepala laboratorium, dan kelompok bidang keahlian.
+- MBKM: Membahas kesempatan mahasiswa untuk mengikuti kegiatan di luar program studi, seperti magang, pertukaran pelajar, dan studi independen.
+- Kurikulum OBE: Pembelajaran disusun berdasarkan capaian yang harus dimiliki mahasiswa setelah lulus. Metode yang digunakan antara lain Project-Based Learning dan Problem-Based Learning.
+- Tata Tertib Laboratorium: Membahas aturan penggunaan laboratorium, peminjaman alat, kerapian berpakaian, serta larangan selama berada di lingkungan lab.
+
+Hal yang Saya Pelajari
+
+- Metode Belajar: Tidak cukup hanya membaca materi berulang kali. Ada beberapa cara belajar yang lebih efektif, seperti menguji pemahaman sendiri, belajar secara bertahap, dan mencoba menjelaskan kembali materi.
+- Soft Skill: Selain kemampuan teknis, komunikasi dan kerja sama tim juga penting untuk menghadapi dunia kerja.
+- Pembelajaran Vokasi: Perkuliahan lebih banyak melibatkan praktik langsung agar mahasiswa terbiasa menghadapi permasalahan nyata.
+
+Pendapat Pribadi
+
+Dari kegiatan Day 1, saya jadi lebih memahami bagaimana sistem pembelajaran dan aturan akademik di JTIK PNJ. Salah satu hal yang menarik adalah penerapan Project-Based Learning, karena mahasiswa tidak hanya belajar teori, tetapi juga dituntut untuk membuat dan menyelesaikan suatu proyek.
+
+Saya juga mendapat pemahaman baru tentang cara belajar yang lebih efektif. Menurut saya, mencoba mengerjakan soal atau memahami suatu masalah sendiri akan lebih membantu daripada hanya membaca materi berulang kali.
+
+Ke depannya, saya ingin mengembangkan kemampuan teknis, khususnya di bidang pemrograman dan keamanan siber, sekaligus meningkatkan kemampuan komunikasi dan kerja sama tim.
